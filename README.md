@@ -21,6 +21,14 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 
 Visitors
+
+
+
+
+
+
+
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
 
 
