@@ -12,4 +12,4 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitors
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerbarkinez)](https://github.com/anuraghazra/github-readme-stats)
