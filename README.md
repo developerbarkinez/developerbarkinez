@@ -76,7 +76,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/barkinezzy#9608)](https://discord.com/users/barkinezzy#9608)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/849899112677769276)](https://discord.com/users/849899112677769276)
 
 
 
