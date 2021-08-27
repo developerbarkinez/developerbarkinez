@@ -13,3 +13,4 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitors
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=developerbarkinez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerbarkinez)](https://github.com/anuraghazra/github-readme-stats)
