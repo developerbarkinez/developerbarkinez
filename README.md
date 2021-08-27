@@ -42,3 +42,15 @@ Most Known Top Languages
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerbarkinez)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+
+
+
+
+
+
+
+My Wakatime Stats
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
