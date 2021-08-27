@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer student in Turkey. I am trying to improve my code and math skills. I want to learn artifical intelligence
+My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer student in Turkey. I am developing front-end and back-end libraries . I want to learn artifical intelligence
 
 - :zap: I love math, programming, data science, and books
 - 🌱 I’m addicted to learning and growing every day
@@ -21,5 +21,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
       
 
        My GitHub Stats
+       [![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
         <!--START_SECTION:waka--><!--END_SECTION:waka-->
