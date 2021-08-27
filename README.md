@@ -10,6 +10,16 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
   - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
+
+
+
+
+
+
+
+
+
+
 Visitors
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) 
 
