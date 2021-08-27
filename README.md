@@ -8,7 +8,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 - 📫 How to find me: 
  -:office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
   
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerbarkinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
 
 
 
