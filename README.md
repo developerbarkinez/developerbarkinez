@@ -18,7 +18,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 
 
-Visitors
+### Visitors
 
 
 
@@ -40,7 +40,7 @@ Visitors
 
 
 
-My Stats
+### My Stats
 
 
 
@@ -52,7 +52,7 @@ My Stats
 
 
 
-Most Known Top Languages
+### Most Known Top Languages
 
 
 
