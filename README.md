@@ -6,7 +6,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 - 🌱 I’m addicted to learning and growing every day
 - :earth_africa: I am currently sharing a little bit of my knowledge to the world through my blogs
 - 📫 How to find me: 
- -:office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
+ -:office: [LinkedIn](https://www.linkedin.com/in/barkin-durmus-84b55517b/)
   
 
 
