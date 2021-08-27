@@ -11,17 +11,5 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
   - :office: [LinkedIn](https://www.linkedin.com/in/khuyen-tran-1ab926151/)
   - :speaker: [Podcast](https://medium.com/@theartistsofdatascience/why-we-should-be-more-like-winnie-the-pooh-khuyen-tran-on-the-artists-of-data-science-c610c91d4c14)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id) visitors
 
-      
-
-       visitors
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=developerbarkinez&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=khuyentran1401&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-      
-
-       My GitHub Stats
-       
-
-        <!--START_SECTION:waka--><!--END_SECTION:waka-->
