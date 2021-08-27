@@ -78,6 +78,22 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 ### My Wakatime Stats
 
 <!--START_SECTION:waka-->
+
+
+
+
+
+
+ WakaTime Dev Metrics
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 ```text
 No Activity tracked this Week
 ```
