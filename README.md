@@ -25,7 +25,10 @@ Here are some ideas to get you started:
 
        My GitHub Stats
        <!--START_SECTION:waka-->
-       <!--END_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
+<!--END_SECTION:waka-->
        
          WakaTime Dev Metrics
        
