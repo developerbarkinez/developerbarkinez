@@ -58,7 +58,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developerbarkinez)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=barkinez)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
