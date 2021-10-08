@@ -79,10 +79,10 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 16 mins   ███████████▓░░░░░░░░░░░░░   47.16 % 
-HTML         5 hrs 45 mins   ████████▒░░░░░░░░░░░░░░░░   32.88 % 
-JavaScript   2 hrs 42 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.49 % 
-JSON         46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+TypeScript   10 hrs 4 mins   ██████████████░░░░░░░░░░░   56.59 % 
+HTML         6 hrs 26 mins   █████████░░░░░░░░░░░░░░░░   36.14 % 
+JSON         48 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+JavaScript   29 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 % 
 ```
 <!--END_SECTION:waka-->
 
