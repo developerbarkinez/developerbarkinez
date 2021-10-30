@@ -79,7 +79,7 @@ My name is Barkin Durmus and this is my GitHub profile. I'm a Software Engineer 
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+HTML         11 mins         ███████████████████████▒░   93.62 % 
 ```
 <!--END_SECTION:waka-->
 
